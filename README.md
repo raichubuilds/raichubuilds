@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emre (aka. Cryptoraichu)
+# 👋 Hi, I'm Emre (aka. Raichubuilds)
 
 Founder of [UNCW3B Software](https://www.uncw3b.com) & [Lumixgen](https://www.lumixgen.com)  
 Full-Stack Developer • Web3 Builder • AI & SaaS Enthusiast  
@@ -7,7 +7,7 @@ Full-Stack Developer • Web3 Builder • AI & SaaS Enthusiast
 [![Website](https://img.shields.io/badge/uncw3b.com-1C1C1C?style=flat&logo=google-chrome&logoColor=white)](https://www.uncw3b.com)
 [![Lumixgen](https://img.shields.io/badge/lumixgen.com-5B1FE3?style=flat&logo=sparkfun&logoColor=white)](https://www.lumixgen.com)
 [![Email](https://img.shields.io/badge/Contact-Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:info@uncw3b.com)
-[![Follow on X](https://img.shields.io/badge/Follow-@-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/cryptoraichu)
+[![Follow on X](https://img.shields.io/badge/Follow-@-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/raichubuilds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 ---
@@ -61,9 +61,9 @@ Extras I often use:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptoraichu&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoraichu&layout=compact&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=cryptoraichu&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raichubuilds&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raichubuilds&layout=compact&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=raichubuilds&theme=transparent)
 
 ---
 
@@ -71,7 +71,7 @@ Extras I often use:
 - Website: [uncw3b.com](https://www.uncw3b.com)
 - Lumixgen: [lumixgen.com](https://www.lumixgen.com)
 - LinkedIn: [Linked-in](https://www.linkedin.com/company/109119134/admin/page-posts/published/)
-- X (Twitter): [Twitter](https://x.com/cryptoraichu)
+- X (Twitter): [Twitter](https://x.com/raichubuilds)
 
 ---
 
